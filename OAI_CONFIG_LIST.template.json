@@ -1,0 +1,30 @@
+[
+    {
+        "model": "g4om1", 
+        "api_key": "",
+        "base_url": "https://?.openai.azure.com",
+        "api_type": "azure",
+        "api_version": "2024-06-01"
+    },
+    {
+        "model": "g4om2", 
+        "api_key": "",
+        "base_url": "https://?.openai.azure.com",
+        "api_type": "azure",
+        "api_version": "2024-06-01"
+    },
+    {
+        "model": "g4om3", 
+        "api_key": "",
+        "base_url": "https://?.openai.azure.com",
+        "api_type": "azure",
+        "api_version": "2024-06-01"
+    },
+    {
+        "model": "g4om4", 
+        "api_key": "",
+        "base_url": "https://?.openai.azure.com",
+        "api_type": "azure",
+        "api_version": "2024-06-01"
+    }
+]
